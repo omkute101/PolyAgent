@@ -1,0 +1,9 @@
+litellm>=1.0.0
+feedparser>=6.0.0
+httpx>=0.27.0
+python-dotenv>=1.0.0
+rich>=13.0.0
+websockets>=12.0
+tweepy>=4.14.0
+aiohttp>=3.9.0
+# py-clob-client>=0.18.0  # Requires Python >=3.9.10 — install separately for live trading
